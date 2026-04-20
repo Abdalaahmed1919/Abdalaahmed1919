@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend .NET Developer focused on building scalable web applications using ASP.NET Core .<br>Experienced in developing RESTful APIs, implementing authentication and authorization, and applying clean architecture principles.<br>Familiar with HTML, CSS, JavaScript, and Bootstrap for building responsive user interfaces.
+Full Stack Developer specializing in .NET, with experience in building web applications, APIs, and database systems. Passionate about learning, improving, and creating real-world solutions.
 
 
 ## 🌐 Socials:
